@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+*/venv/
+.venv/
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / Editor specific files (contoh untuk VS Code)
+.vscode/
+.idea/
+
+# Data Output (Biasanya hasil generate tidak diupload)
+data/output/
+
+# File sensitif (jika ada)
+# .env
+# *.log
